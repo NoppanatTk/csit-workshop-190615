@@ -10,6 +10,7 @@ body {
     font-weight: bold;
     margin-bottom:0px;
     margin-top:24px;
+    color:blue
 }
 
 .group-menu ul{
@@ -35,5 +36,5 @@ li .menu-price {
     float: right;
 }
 li p:hover{
-    color: blueviolet
+    color: red
 }
